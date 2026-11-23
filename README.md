@@ -30,7 +30,3 @@ Programmer and IT student focused on building practical solutions and continuous
   <img src="https://github-stats-extended.vercel.app/api?username=potexxi&show_icons=true&theme=dark&hide_border=true" alt="Potexxi's GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=potexxi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-> *"Consistency beats intensity."*
