@@ -4,11 +4,17 @@ Programmer and IT student focused on building practical solutions and continuous
 
 ## 👨‍💻 About Me
 
-TODO
+* Student & Developer
+* Developing tools and applications in C#
+* Interested in servers, networking and virtualization
+* Hosting game servers for me and my friends
 
 ## 🚀 Featured Projects
 
-TODO
+* [**MarkIt**](https://github.com/potexxi/MarkIt) a markdown text-editor built with WPF, C# for a school project.
+* [**FlipHappens**](https://github.com/potexxi/flip-happens) a 2d platformer video game, built with python and pygame.
+* [**Proxmox Images**](https://github.com/potexxi/proxmox-linux-images) contains all files and proxmox images for my IaC environment.
+* [**GrandRP Autobot**](https://github.com/potexxi/GrandRP-auto-fuel-collector) is a application, that farms resources on a GTA Roleplay server.
 
 ## 🛠️ Languages & Tools
 
